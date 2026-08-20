@@ -1,0 +1,6 @@
+Driver Name,Driver Phone Number,Pickup Location,Scheduled Pickup Time,Reminder Status,Call SID,Last Attempted At,Notes
+Ramesh Kumar,+91 98765 43210,"DLF Cyber City, Gurugram",21-Aug-2026 09:00 am,Reminder Sent,CA4BFA91E0B8B3400C8BD04DC1B1C70CA7,2026-08-20 02:07:29 PM,Call triggered successfully (simulation)
+Suresh Yadav,+91 91234 56780,"Indira Gandhi Intl Airport, T3",21-Aug-2026 09:45 am,Reminder Sent,CAE7701CCC157C4693A451194CFB47DDDF,2026-08-20 02:07:32 PM,Call triggered successfully (simulation)
+Amit Sharma,+91 99887 66554,"Cyberhub, Sector 24, Gurugram",21-Aug-2026 10:30 am,Reminder Sent,CA619FD387F1DC4B7CA3A1322E0DDF471A,2026-08-20 02:07:35 PM,Manual trigger (simulation)
+Vikram Singh,+91 90123 45678,"Connaught Place, New Delhi",21-Aug-2026 11:15 am,Pending,,,
+Rajesh Verma,+91 98111 22334,"Sector 62, Noida",21-Aug-2026 12:00 pm,Pending,,,
